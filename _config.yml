@@ -1,0 +1,28 @@
+name: thedivaportrait
+favicon: null
+layout_spectrum: 0.3310702657327056
+typography_spectrum: 0.33781927172094584
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#A690A4'
+    - '#B68F9D'
+    - '#C8ACAB'
+    - '#FBB9BF'
+    - '#E376B7'
+  brandStrength: 0.8834725939668715
+  lightness: 0.0322891091927886
+  saturation: 0.38844753918237984
+  rhythmicContrast: 0.6360496643465012
+purpose: []
