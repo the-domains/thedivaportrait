@@ -1,7 +1,7 @@
 name: thedivaportrait
 favicon: null
-layout_spectrum: 0.3310702657327056
-typography_spectrum: 0.33781927172094584
+layout_spectrum: 1
+typography_spectrum: 0.25368
 cta:
   domain: null
   bucket: null
@@ -21,8 +21,8 @@ color:
     - '#fffbfc'
     - '#5f6269'
     - '#b2833c'
-  brandStrength: 0.5
+  brandStrength: 0
   lightness: 0.5
-  saturation: 0.5
+  saturation: 0
   rhythmicContrast: 0
 purpose: []
