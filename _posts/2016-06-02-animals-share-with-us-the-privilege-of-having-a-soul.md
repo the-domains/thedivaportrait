@@ -5,8 +5,8 @@ inNav: false
 inLanguage: null
 keywords: []
 description: ANIMALS SHARE WITH US THE PRIVILEGE OF HAVING A SOUL
-datePublished: '2016-06-02T23:47:51.161Z'
-dateModified: '2016-06-02T18:25:30.735Z'
+datePublished: '2016-06-03T15:13:05.426Z'
+dateModified: '2016-06-03T15:12:14.138Z'
 title: ''
 author:
   - name: ''
