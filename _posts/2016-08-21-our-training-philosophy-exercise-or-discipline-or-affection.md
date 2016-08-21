@@ -5,18 +5,18 @@ inNav: false
 inLanguage: null
 keywords: []
 description: Our Training Philosophy- Exercise | Discipline | Affection
-datePublished: '2016-08-21T19:43:44.913Z'
-dateModified: '2016-08-21T19:43:21.043Z'
+datePublished: '2016-08-21T19:49:20.786Z'
+dateModified: '2016-08-21T19:47:42.586Z'
 title: ''
 author:
   - name: ''
     url: ''
 via: {}
+sourcePath: >-
+  _posts/2016-08-21-our-training-philosophy-exercise-or-discipline-or-affection.md
 authors: []
 publisher: {}
 starred: false
-sourcePath: >-
-  _posts/2016-08-21-our-training-philosophy-exercise-or-discipline-or-affection.md
 url: our-training-philosophy-exercise-or-discipline-or-affection/index.html
 _type: Article
 
